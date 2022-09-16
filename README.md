@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 
 - 🔭 I’m currently working on 
   - Computational Fluid Dynamics (CFD) through Centrifugal Pump Simulation in Python and Simscale. [Repo here](https://github.com/mcrd25/CFD-cpump) 
   - Compling Economic based research papers and doing my own research on How development policies affect the generation of new start ups! This repository will alsobe incluing simple economic calculation/analysis scripts in python. [Economics Repo here](https://github.com/mcrd25/Economic-Resources)
@@ -58,3 +58,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+Nice to meet you! 👋
+
+Love,
+Maya
+
+:christian
