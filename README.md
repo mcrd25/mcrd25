@@ -4,7 +4,7 @@
   - Compling list of publicly available (not private to associations such as AEA) Economic based research papers an dmy own research, such as How development policies affect the generation of new start ups. This repository will also include simple economic calculation/analysis scripts in python. [Economics Repo here](https://github.com/mcrd25/Economic-Resources)
   - Application of Pythagorean Theorem in different Sports Analytics . [Repo here](https://github.com/mcrd25/pythagexp-sports)
   - Self-compiled/written Ramdomized evaluation repository that guides through building and designing randomized evaluations (contained in markdowns). [Repo Here](https://github.com/mcrd25/randomized-evaluations) 
-    Ramdomized evaluations repository Will also contain personal sample code in Python and diagrams for Data Anaylsis process in preparing and executing Randomized Evaluations. This includes code on: 
+    Ramdomized evaluations repository Will also contain personal sample code in Python and diagrams for Data Anaylsis process in preparing and executing Randomized Evaluations. This includes code and diagrams on: 
     - Data Security processes
     - Data Cleaning
     - Exploritory Analysis
@@ -17,7 +17,7 @@
   - Covid 19 detection guide from chest x-rays using Convolutional Neural Networks. (Yes I know covid-19 is basically not a thing any more, which is exactly why this is a fun project). [See Repo Here](https://github.com/mcrd25/CNN-for-C19-chestxray-detection) 🧪 👩‍🔬
   -  Profit analysis using Economic Value Added (EVA) and TVM, with financial statements as input. This project is based in python (makes use of tensorflow as well) and I will make Jupyter notebooks available for finance professionals to easily navigate the analysis tutorial. **NOTE:** ***__No repo yet. Coming soon__***
   -  Replicated and abstracted analysis of how insurance coverage policies impact pharmaceutical innovation based on [This research](https://www.aeaweb.org/articles?id=10.1257/aeri.20210063&&from=f) 📜 **NOTE:** ***Initial stages of project, no repo yet***
-  -  Binary Search Tree implmentations and sample code. [See repo here](https://github.com/mcrd25/bst) 🌲 2️⃣
+  -  Binary Search Tree implmentations and sample code i ndifferent languages. [See repo here](https://github.com/mcrd25/bst) 🌲 2️⃣
   -  Predicting Bitcoin Price Variations using Bayesian Regression = - **NOTE:** ***__no repo yet__*** 🪙
   -  NLP analysis in python of bible version to prove superiority of KJV version. **NOTE:** ***__repo coming soon__*** 📖 
   -  Trying to updated current [Personal Projects Repo (compiled list of all decent projects on my github)](https://github.com/mcrd25/Personal-Projects)
@@ -33,6 +33,7 @@
 - 💬 Ask me about:
   - Digital Transformation (Tax|Finance, Energy, General)
   - API Development
+  - JavaScript
   - Full-Stack Development and Management
   - Automation
   - System Design
