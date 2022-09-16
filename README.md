@@ -1,10 +1,10 @@
 ### Hi there 👋
 - 🔭 I’m currently working on 
-  - CFD through Centrifugal Pump Simulation in Python and Simscale. [Repo here](https://github.com/mcrd25/CFD-cpump) 
-  - Compling Economic based research papers and doing my own research on How development policies affect the generation of new start ups! This repository will also being to inclue simple economic calculation scripts in python. [Economics Repo here](https://github.com/mcrd25/Economic-Resources)
+  - Computational Fluid Dynamics (CFD) through Centrifugal Pump Simulation in Python and Simscale. [Repo here](https://github.com/mcrd25/CFD-cpump) 
+  - Compling Economic based research papers and doing my own research on How development policies affect the generation of new start ups! This repository will alsobe incluing simple economic calculation/analysis scripts in python. [Economics Repo here](https://github.com/mcrd25/Economic-Resources)
   - Application of Pythagorean Theorem in different Sports Analytics . [Repo here](https://github.com/mcrd25/pythagexp-sports)
   - Ramdomized evaluation repository that guides through building and designing randomized evaluations (contained in markdowns). [Repo Here](https://github.com/mcrd25/randomized-evaluations)
-    Will also contain sample code in Python and diagrams for Data Anylsis process:
+    Ramdomized evaluations repository Will also contain sample code in Python and diagrams for Data Anylsis process:
     - Data Security processes
     - Data Cleaning
     - Exploritory Analysis
