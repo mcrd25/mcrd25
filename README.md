@@ -1,4 +1,7 @@
 ### Hi there 👋
+- 🔭 I’m currently working on 
+- - Compling Economic based research papers and doing my own research on How development poliies affect the generation of new start ups!
+
 
 <!--
 **mcrd25/mcrd25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
