@@ -1,5 +1,5 @@
 ### Hi there 👋 
-- 🔭 I’m currently working on 
+- 🔭 I’m currently working on:
   - Computational Fluid Dynamics (CFD) through Centrifugal Pump Simulation in Python and Simscale. [Repo here](https://github.com/mcrd25/CFD-cpump) 👩‍🔬
   - Compling list of publicly available (not private to associations such as AEA) Economic based research papers an dmy own research, such as How development policies affect the generation of new start ups. This repository will also include simple economic calculation/analysis scripts in python. [Economics Repo here](https://github.com/mcrd25/Economic-Resources)
   - Application of Pythagorean Theorem in different Sports Analytics . [Repo here](https://github.com/mcrd25/pythagexp-sports)
