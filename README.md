@@ -1,10 +1,10 @@
 ### Hi there 👋 
 - 🔭 I’m currently working on 
-  - Computational Fluid Dynamics (CFD) through Centrifugal Pump Simulation in Python and Simscale. [Repo here](https://github.com/mcrd25/CFD-cpump) 
+  - Computational Fluid Dynamics (CFD) through Centrifugal Pump Simulation in Python and Simscale. [Repo here](https://github.com/mcrd25/CFD-cpump) 👩‍🔬
   - Compling Economic based research papers and doing my own research on How development policies affect the generation of new start ups! This repository will alsobe incluing simple economic calculation/analysis scripts in python. [Economics Repo here](https://github.com/mcrd25/Economic-Resources)
   - Application of Pythagorean Theorem in different Sports Analytics . [Repo here](https://github.com/mcrd25/pythagexp-sports)
-  - Ramdomized evaluation repository that guides through building and designing randomized evaluations (contained in markdowns). [Repo Here](https://github.com/mcrd25/randomized-evaluations)
-    Ramdomized evaluations repository Will also contain sample code in Python and diagrams for Data Anylsis process:
+  - Ramdomized evaluation repository that guides through building and designing randomized evaluations (contained in markdowns). [Repo Here](https://github.com/mcrd25/randomized-evaluations) 
+    Ramdomized evaluations repository Will also contain sample code in Python and diagrams for Data Anylsis process: 
     - Data Security processes
     - Data Cleaning
     - Exploritory Analysis
@@ -13,14 +13,14 @@
     - Cost Effective Analysis (CAE)
     - Data de-identification/anonymity process
     - Data Publiation
-  - Domestic/GBV (disproportionate violence against women and children)  Violence in Trinidad newspaper article identifier and data scraper for TT based NGO 🇹🇹 called the Andrea Project that uses SVC model (possible logistric regression classfication not 100% decided) for identification and extracts data (using [Scrapy](https://scrapy.org/) and [Beautfiul Soup](https://beautiful-soup-4.readthedocs.io/en/latest/) from articles like weapon, genders involved, time, location etc. using word to vector approach as opposed to just naive symbolic approach that may result in combinational explosion. [(See research paper on word2vec here)](https://www.researchgate.net/publication/234131319_Efficient_Estimation_of_Word_Representations_in_Vector_Space). ***__Repo not currently publicly available - Should be eventually along with a possible white paper or emperical research paper on project. The project would be abstracted to be adapted by other countries, individuals, and organizations.__***
-  - Covid 19 detection guide from chest x-rays using Convolutional Neural Networks. (Yes I know covid-19 is basically not a thing any more, which is exactly why this is a fun project). [See Repo Here](https://github.com/mcrd25/CNN-for-C19-chestxray-detection)
+  - Domestic/GBV (disproportionate violence against women and children)  Violence in Trinidad newspaper article identifier and data scraper for TT based NGO 🇹🇹 called the Andrea Project that uses SVC model (possible logistric regression classfication not 100% decided) for identification and extracts data (using [Scrapy](https://scrapy.org/) and [Beautfiul Soup](https://beautiful-soup-4.readthedocs.io/en/latest/) from articles like weapon, genders involved, time, location etc. using word to vector approach as opposed to just naive symbolic approach that may result in combinational explosion. [(See research paper on word2vec here)](https://www.researchgate.net/publication/234131319_Efficient_Estimation_of_Word_Representations_in_Vector_Space). ***__Repo not currently publicly available - Should be eventually along with a possible white paper or emperical research paper on project. The project would be abstracted to be adapted by other countries, individuals, and organizations.__*** 📰 🗞️
+  - Covid 19 detection guide from chest x-rays using Convolutional Neural Networks. (Yes I know covid-19 is basically not a thing any more, which is exactly why this is a fun project). [See Repo Here](https://github.com/mcrd25/CNN-for-C19-chestxray-detection) 🧪 👩‍🔬
   -  Profit analysis using Economic Value added with financial as input. This project is based in python (makes use of tensorflow as well) and I will make Jupyter notebooks available. ***__No repo yet. Coming soon__***
-  -  Replicated and abstracted analysis of how insurance coverage policies impact pharmaceutical innovation based on [This research](https://www.aeaweb.org/articles?id=10.1257/aeri.20210063&&from=f)
+  -  Replicated and abstracted analysis of how insurance coverage policies impact pharmaceutical innovation based on [This research](https://www.aeaweb.org/articles?id=10.1257/aeri.20210063&&from=f) 📜
   -  Trying to updated current [Personal Projects Repo (compiled list of all decent projects on my github)](https://github.com/mcrd25/Personal-Projects)
-  -  Predicting Bitcoin Price Variations using Bayesian Regression ***__no repo yet__***
+  -  Predicting Bitcoin Price Variations using Bayesian Regression ***__no repo yet__*** 🪙
   -  Binary Search Tree implmentations and sample code. [See repo here](https://github.com/mcrd25/bst) 🌲 2️⃣
-  -  NLP analysis in python of bible version to prove superiority of KJV version. ***__repo coming soon__***
+  -  NLP analysis in python of bible version to prove superiority of KJV version. ***__repo coming soon__*** 📖 
   -  🧑‍💼 At work I work on Data Dashboards, Data|Economic Analysis & Prediction models( using Python, BI, Alteryx and SQL), Automation, Digital Transformation and automation (Process transformation in tax at @Deloitte), manage custom application development (to support digital transformation), and manage integration of new software for Tax.
   
   
@@ -62,6 +62,6 @@ Here are some ideas to get you started:
 Nice to meet you! 👋
 
 Love,
-Maya
+Maya ✝️🩸❤️📖
 
-:christian
+✝️ 
