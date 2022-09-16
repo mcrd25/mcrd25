@@ -31,7 +31,7 @@
 - 🤔 I’m looking for help with implementing Machine Learning applications and any help would be welcomed on above projects mentioned in currently working on section (execept Deloitte work of course)
 
 - 💬 Ask me about:
-  - Digital Transformation (Tax|Finance, Oil and Gas, General)
+  - Digital Transformation (Tax|Finance, Energy, General)
   - API Development
   - Full-Stack Development and Management
   - Automation
