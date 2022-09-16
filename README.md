@@ -31,13 +31,13 @@
 - 🤔 I’m looking for help with implementing Machine Learning applications and any help would be welcomed on above projects mentioned in currently working on section (execept Deloitte work of course)
 
 - 💬 Ask me about:
-  - Digital Transformation
+  - Digital Transformation (Tax|Finance, Oil and Gas, General)
   - API Development
   - Full-Stack Development and Management
   - Automation
   - System Design
   - Randomized Evaluations
-  - Starting startups - developing MVP product (I work and consult iwht start ups mostly)
+  - Starting startups - developing MVP product (I work and consult with start ups mostly)
   - Exploratory Analysis
   - Some Machine learning topics
   - Economics (depends on area, particularly Microeconomics)
