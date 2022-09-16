@@ -35,6 +35,7 @@
   - API Development
   - Full-Stack Development and Management
   - Automation
+  - System Design
   - Randomized Evaluations
   - Starting startups - developing MVP product (I work and consult iwht start ups mostly)
   - Exploratory Analysis
