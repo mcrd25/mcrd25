@@ -19,7 +19,6 @@
   -  Replicated and abstracted analysis of how insurance coverage policies impact pharmaceutical innovation based on [This research](https://www.aeaweb.org/articles?id=10.1257/aeri.20210063&&from=f) 📜 **NOTE:** ***Initial stages of project, no repo yet***
   -  Binary Search Tree implmentations and sample code in different languages. [See repo here](https://github.com/mcrd25/bst) 🌲 2️⃣
   -  Predicting Bitcoin Price Variations using Bayesian Regression = - **NOTE:** ***__no repo yet__*** 🪙
-  -  NLP analysis in python of "bible" versions to prove superiority of KJV version. **NOTE:** ***__repo coming soon__*** 📖 
   -  Trying to updated current [Personal Projects Repo (compiled list of all decent projects on my github)](https://github.com/mcrd25/Personal-Projects)
   -  🧑‍💼 At work I work on Data Dashboards, Data|Economic Analysis & Prediction models( using Python, BI, Alteryx and SQL), Digital Transformation and automation (Process transformation in tax at @Deloitte KY Office and beyond), manage custom application development (to support digital transformation), and manage integration of new software for Tax (KY).
   
