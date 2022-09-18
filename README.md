@@ -28,7 +28,7 @@
  
 - 👯 I’m looking to collaborate on any sort of Data Science or Bitcoin Economic Research/Analysis Paper.
 
-- 🤔 I’m looking for help with implementing Machine Learning applications. Any help would be welcomed on above open source projects mentioned that I'm currently working on section (execept Deloitte work of course)
+- 🤔 I’m looking for help with implementing Machine Learning applications. Any help would be welcomed on above open source projects mentioned that I'm currently working on section (except Deloitte work of course)
 
 - 💬 Ask me about:
   - Digital Transformation (Tax|Finance, Energy, General)
