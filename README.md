@@ -1,5 +1,5 @@
-### Hi there 👋 
-- 🔭 I’m currently working on:
+# Hi there 👋 
+## 🔭 I’m currently working on:
   - Computational Fluid Dynamics (CFD) through Centrifugal Pump Simulation in Python and Simscale. [Repo here](https://github.com/mcrd25/CFD-cpump) 👩‍🔬
   - Compiling list of publicly available Economic based research papers (but not private to associations such as AEA) and my own research, such as "How development policies affect the generation of new start ups". This repository will also include simple economic calculation/analysis scripts in python. [Economics Repo here](https://github.com/mcrd25/Economic-Resources)
   - Application of Pythagorean Theorem in different Sports Analytics . [Repo here](https://github.com/mcrd25/pythagexp-sports)
@@ -68,7 +68,7 @@ Maya ✝️🩸❤️📖
 
 
 
-# Maya's Github Statistics 📊:
+## Github Statistics 📈
 ![Maya's G𝚒𝚝H𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://activity-graph.herokuapp.com/graph?username=mcrd25&theme=redical&hide_border=true&area=true)
 ![](https://github-readme-stats.vercel.app/api?username=mcrd25&theme=radical&hide_border=false&include_all_commits=true&count_private=true)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=mcrd25&theme=radical&hide_border=false)<br/>
