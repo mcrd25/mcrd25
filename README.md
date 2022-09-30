@@ -65,3 +65,11 @@ Love,
 Maya ✝️🩸❤️📖
 
 ✝️ 
+
+
+
+# Maya's Github Statistics 📊:
+![Maya's G𝚒𝚝H𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://activity-graph.herokuapp.com/graph?username=mcrd25&theme=redical&hide_border=true&area=true)
+![](https://github-readme-stats.vercel.app/api?username=mcrd25&theme=radical&hide_border=false&include_all_commits=true&count_private=true)
+![](https://github-readme-streak-stats.herokuapp.com/?user=mcrd25&theme=radical&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=mcrd25&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
