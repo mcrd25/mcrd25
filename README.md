@@ -23,14 +23,14 @@
   -  🧑‍💼 At work I work on Data Dashboards, Data|Economic Analysis & Prediction models( using Python, BI, Alteryx and SQL), Digital Transformation and automation (Process transformation in tax at @Deloitte KY Office and beyond), manage custom application development (to support digital transformation), and manage integration of new software for Tax (KY).
   
   
-- 🌱 I’m currently learning more about GO, Bayesean Statistics, Microeconomics, and System Design.
+- 🌱 I’m currently learning more about GO, Microeconomics, and System Design.
  
 - 👯 I’m looking to possibly collaborate on any sort of Data Driven Economic Research/Analysis Paper.
 
 - 🤔 I’m looking for help with implementing Machine Learning applications. Any help would be welcomed on above open source projects mentioned that I'm currently working on section (except Deloitte work of course)
 
 - 💬 Ask me about:
-  - My Christianity, bible proofs
+  - My Christianity
   - Digital Transformation (Tax|Finance, Energy, General)
   - API Development
   - JavaScript
