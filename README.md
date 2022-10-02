@@ -26,7 +26,6 @@
 
 
 ## 💬 Ask me about:
-  - My Christianity
   - Digital Transformation (Tax|Finance, Energy, General)
   - API Development
   - JavaScript
