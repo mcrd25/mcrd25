@@ -13,9 +13,8 @@
     - Cost Effective Analysis (CAE)
     - Data de-identification/anonymity process
     - Data Publication
-
-<!--  - Covid 19 detection guide from chest x-rays using Convolutional Neural Networks. (Yes I know covid-19 is basically not a thing anymore, which is exactly why this is a fun project). [See Repo Here](https://github.com/mcrd25/CNN-for-C19-chestxray-detection) 🧪 👩‍🔬
-  -  Profit analysis using Economic Value Added (EVA) and TVM, that uses financial statements as input. This project is based in python (makes use of tensorflow as well) and I will make Jupyter notebooks available for finance professionals to easily navigate the analysis tutorial. **NOTE:** ***__No repo yet. Coming soon__***
+ - Covid 19 detection guide from chest x-rays using Convolutional Neural Networks. (Yes I know covid-19 is basically not a thing anymore, which is exactly why this is a fun project). [See Repo Here](https://github.com/mcrd25/CNN-for-C19-chestxray-detection) 🧪 👩‍🔬
+ <!-- -  Profit analysis using Economic Value Added (EVA) and TVM, that uses financial statements as input. This project is based in python (makes use of tensorflow as well) and I will make Jupyter notebooks available for finance professionals to easily navigate the analysis tutorial. **NOTE:** ***__No repo yet. Coming soon__***
   -  Replicated and abstracted analysis of how insurance coverage policies impact pharmaceutical innovation based on [This research](https://www.aeaweb.org/articles?id=10.1257/aeri.20210063&&from=f) 📜 **NOTE:** ***Initial stages of project, no repo yet*** -->
   -  Binary Search Tree implmentations and sample code in different languages. [See repo here](https://github.com/mcrd25/bst) 🌲 2️⃣
 <!--  -  Predicting Bitcoin Price Variations using Bayesian Regression = - **NOTE:** ***__no repo yet__*** 🪙
