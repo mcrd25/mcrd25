@@ -5,7 +5,7 @@
      -  2)  allow humans to play a game and let them guess. This can give a neat statistic on quality of DALL-E images produced and how easy it is for humans to tell them apart. 
     
   - Computational Fluid Dynamics (CFD) through Centrifugal Pump Simulation in Python and Simscale. [Repo here](https://github.com/mcrd25/CFD-cpump) 👩‍🔬
- <!-- - Compiling list of publicly available Economic based research papers (but not private to associations such as AEA) and my own research, such as "How development policies affect the generation of new start ups". This repository will also include simple economic calculation/analysis scripts in python. [Economics Repo here](https://github.com/mcrd25/Economic-Resources)-->
+  - Compiling list of publicly available Economic based research papers (but not private to associations such as AEA) and my own research, such as "How development policies affect the generation of new start ups". This repository will also include simple economic calculation/analysis scripts in python. [Economics Repo here](https://github.com/mcrd25/Economic-Resources)-->
   - Application of Pythagorean Expectation in different Sports Analytics . [Repo here](https://github.com/mcrd25/pythagexp-sports)
   - Self-compiled/written Ramdomized evaluation repository that guides through building and designing randomized evaluations (contained in markdowns). [Repo Here](https://github.com/mcrd25/randomized-evaluations) 
     Ramdomized evaluations repository Will also contain personal sample code in Python and diagrams for Data Anaylsis process in preparing and executing Randomized Evaluations. This includes code and diagrams on: 
@@ -17,9 +17,9 @@
     - Cost Effective Analysis (CAE)
     - Data de-identification/anonymity process
     - Data Publication
- - Covid 19 detection guide from chest x-rays using Convolutional Neural Networks. (Yes I know covid-19 is basically not a thing anymore, which is exactly why this is a fun project). [See Repo Here](https://github.com/mcrd25/CNN-for-C19-chestxray-detection) 🧪 👩‍🔬
- <!-- -  Profit analysis using Economic Value Added (EVA) and TVM, that uses financial statements as input. This project is based in python (makes use of tensorflow as well) and I will make Jupyter notebooks available for finance professionals to easily navigate the analysis tutorial. **NOTE:** ***__No repo yet. Coming soon__***
-  -  Replicated and abstracted analysis of how insurance coverage policies impact pharmaceutical innovation based on [This research](https://www.aeaweb.org/articles?id=10.1257/aeri.20210063&&from=f) 📜 **NOTE:** ***Initial stages of project, no repo yet*** -->
+  - Covid 19 detection guide from chest x-rays using Convolutional Neural Networks. (Yes I know covid-19 is basically not a thing anymore, which is exactly why this is a fun project). [See Repo Here](https://github.com/mcrd25/CNN-for-C19-chestxray-detection) 🧪 👩‍🔬
+  -  Profit analysis using Economic Value Added (EVA) and TVM, that uses financial statements as input. This project is based in python (makes use of tensorflow as well) and I will make Jupyter notebooks available for finance professionals to easily navigate the analysis tutorial. **NOTE:** ***__No repo yet. Coming soon__***
+ <!-- -  Replicated and abstracted analysis of how insurance coverage policies impact pharmaceutical innovation based on [This research](https://www.aeaweb.org/articles?id=10.1257/aeri.20210063&&from=f) 📜 **NOTE:** ***Initial stages of project, no repo yet*** -->
   -  Binary Search Tree implmentations and sample code in different languages. [See repo here](https://github.com/mcrd25/bst) 🌲 2️⃣
 <!--  -  Predicting Bitcoin Price Variations using Bayesian Regression = - **NOTE:** ***__no repo yet__*** 🪙
   -  Trying to updated current [Personal Projects Repo (compiled list of all decent projects on my github)](https://github.com/mcrd25/Personal-Projects)-->
