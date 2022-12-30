@@ -21,6 +21,7 @@
   -  Profit analysis using Economic Value Added (EVA) and TVM, that uses financial statements as input. This project is based in python (makes use of tensorflow as well) and I will make Jupyter notebooks available for finance professionals to easily navigate the analysis tutorial. **NOTE:** ***__No repo yet. Coming soon__***
   -  Replicated and abstracted analysis of how insurance coverage policies impact pharmaceutical innovation based on [This research](https://www.aeaweb.org/articles?id=10.1257/aeri.20210063&&from=f) 📜 **NOTE:** ***Initial stages of project, no repo yet***
   -  Binary Search Tree implmentations and sample code in different languages. [See repo here](https://github.com/mcrd25/bst) 🌲 2️⃣
+  - Text analysis of bible text showing superiority of kjv (in python language) - __WIP: repo coming soon__
 <!--  -  Predicting Bitcoin Price Variations using Bayesian Regression = - **NOTE:** ***__no repo yet__*** 🪙
   -  Trying to updated current [Personal Projects Repo (compiled list of all decent projects on my github)](https://github.com/mcrd25/Personal-Projects)-->
   -  🧑‍💼 At work I work on Data Dashboards, Data|Economic Analysis & Prediction models( using Python, BI, Alteryx and SQL), Digital Transformation and automation (Process transformation in tax at @Deloitte KY Office and beyond), manage custom application development (to support digital transformation), and manage integration of new software for Tax (Caribbean (Mainly Cayman).
